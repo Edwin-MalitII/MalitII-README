@@ -53,7 +53,6 @@ In the deployment window “Deployed Contracts”, set the parameters for the ba
 
 ## Authors
 NTCIAN Edwin U. Malit II
-
 Discord @Uwo Ain Ni
 
 ## License
