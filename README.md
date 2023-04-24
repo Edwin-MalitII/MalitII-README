@@ -56,4 +56,4 @@ NTCIAN Edwin U. Malit II
 Discord @Uwo Ain Ni
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Unlicensed
